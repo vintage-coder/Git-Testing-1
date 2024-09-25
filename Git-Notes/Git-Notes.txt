@@ -1,0 +1,2066 @@
+
+================================================Course Content=========================================================
+
+Play
+1. Welcome and Course Overview
+5min
+Start
+2. Let's get connected! Join the Learning Community
+1min
+Play
+3. Section 1 Introduction
+1min
+Start
+4. PDF - Introduction to the Git and GitHub
+1min
+Play
+5. Git vs GitHub
+6min
+Play
+6. Section 2 Introduction
+1min
+Play
+7. Installing Git on MacOS
+2min
+Play
+8. Installing Git on Windows
+11min
+Play
+9. Installing Git on Linux
+8min
+Play
+10. Installing iTerm2 on the Mac
+6min
+Play
+11. Installing custom shell Z-Shell on the Mac
+6min
+Play
+12. Section 3 Introduction
+1min
+Start
+13. PDF - Basic Shell Commands
+1min
+Play
+14. Shell commands - directory management
+10min
+Play
+15. Shell commands - file management - PART 1
+9min
+Play
+16. Shell commands - file management - PART 2
+8min
+Play
+17. Section 4 Introduction
+1min
+Start
+18. PDF - How Git works under the hood
+1min
+Play
+19. Initialize new Git repository
+4min
+Play
+20. Overview of .git folder
+4min
+Play
+21. Git object types
+3min
+Play
+22. Writing new Git object with git hash-object
+7min
+Play
+23. JSON vs Git database
+4min
+Play
+24. What is hash function
+4min
+Play
+25. Hash functions overview
+3min
+Play
+26. SHA1 Hash Function
+10min
+Play
+27. How many files Git could store
+4min
+Play
+28. Probability theory in Dice game
+4min
+Play
+29. Git hash collision probability
+6min
+Start
+30. Next lecture is OPTIONAL
+1min
+Play
+31. More details on hash collision probability (OPTIONAL)
+27min
+Play
+32. Exploring Git objects with git cat-file command
+5min
+Play
+33. Create new Git Blob based on the file
+8min
+Play
+34. Git blobs don't store filenames
+3min
+Play
+35. Contents of Git objects
+10min
+Play
+36. What we have so far
+2min
+Play
+37. Tree objects in Git
+3min
+Play
+38. Git object permissions
+2min
+Play
+39. Creating Git Tree object
+10min
+Play
+40. Examining Tree Object
+5min
+Play
+41. Working directory, Staging area and Git repository
+2min
+Play
+42. Overview of current files distribution
+4min
+Play
+43. Git read-tree
+4min
+Play
+44. Read files in the staging area using git ls-files
+2min
+Play
+45. Git checkout-index
+3min
+Play
+46. How many folders could be created for objects
+2min
+Play
+47. Section Summary
+4min
+Play
+48. Section 5 Introduction
+1min
+Start
+49. PDF - Basic Git operations
+1min
+Play
+50. What is Commit
+4min
+Play
+51. Configure Git author name and email
+4min
+Play
+52. Creating first commit
+4min
+Play
+53. Exploring commit object
+6min
+Play
+54. Current project state overview
+5min
+Play
+55. Basic Git commands
+4min
+Play
+56. Adding new file to working directory
+6min
+Play
+57. Git files lifecycle
+9min
+Play
+58. Stage file
+2min
+Play
+59. Unstage file using git rm
+3min
+Play
+60. Commit changes
+2min
+Play
+61. Exploring changes in Git repository
+8min
+Play
+62. Current diagram of Git repository
+6min
+Play
+63. Section 6 Introduction
+1min
+Start
+64. PDF - Git branches and HEAD
+1min
+Play
+65. Most common Git operations
+6min
+Play
+66. Overview of the current project state
+1min
+Play
+67. Installing GitHub Desktop
+4min
+Play
+68. GitHub Desktop Overview
+5min
+Play
+69. What is branch in Git
+7min
+Play
+70. What is HEAD in Git
+6min
+Play
+71. Third commit
+5min
+Play
+72. Git repository changes after third commit
+7min
+Play
+73. Checkout specific commit
+14min
+Play
+74. Why do we need branches
+11min
+Play
+75. Git branches management
+3min
+Play
+76. Create new branch
+7min
+Play
+77. Commit changes in the new branch
+5min
+Play
+78. Explore commit in the new branch
+6min
+Play
+79. Git reuses blobs with the same contents
+8min
+Play
+80. Section 7 Introduction
+1min
+Play
+81. Cloning remote repository
+6min
+Play
+82. Exploring contents of the cloned repository
+8min
+Play
+83. Unpacking Git objects
+4min
+Play
+84. Exploring cloned repository in GitHub Desktop
+5min
+Play
+85. Installing text editor Visual Studio Code
+3min
+Play
+86. Exploring Visual Studio Code
+6min
+Play
+87. Commit changes in the cloned repository
+12min
+Play
+88. Git diff command
+14min
+Play
+89. Overview of the changes
+4min
+Play
+90. Section 8 Introduction
+1min
+Start
+91. PDF - Merging branches
+1min
+Play
+92. Why branches merging is needed
+3min
+Play
+93. Fast forward merge
+4min
+Play
+94. Merging process
+2min
+Play
+95. Fast forward merge in action
+7min
+Play
+96. 3-way merge
+6min
+Play
+97. Performing 3-way merge
+13min
+Play
+98. Observing Git repository after 3-way merge
+7min
+Play
+99. Installing SourceTree
+4min
+Play
+100. SourceTree in action
+7min
+Play
+101. What is merge conflict
+3min
+Play
+102. Creating merge conflict
+10min
+Play
+103. Observing conflicts in staging area and working directory
+7min
+Play
+104. Resolving merge conflict in Terminal
+3min
+Play
+105. Resolving conflicts in VS Code
+9min
+Play
+106. Section 9 Introduction
+1min
+Start
+107. PDF - GitHub and remote repositories
+1min
+Play
+108. What is Git hosting service
+4min
+Play
+109. Creating GitHub account
+4min
+Start
+110. Now default branch for new repositories at GitHub is "main"
+1min
+Play
+111. Exploring first repository at GitHub
+11min
+Play
+112. Creating another commit at GitHub
+3min
+Play
+113. Creating new branch at GitHub
+1min
+Play
+114. Making changes in the new branch
+4min
+Play
+115. Cloning remote repository
+5min
+Play
+116. What is remote repository
+3min
+Play
+117. How remote repository empowers collaboration
+4min
+Play
+118. Section 10 Introduction
+2min
+Start
+119. PDF - Git push, fetch and pull
+1min
+Play
+120. Overview of the push, fetch and pull Git commands
+6min
+Play
+121. What is origin
+4min
+Play
+122. List remote and local branches
+3min
+Play
+123. What is tracking branch
+5min
+Play
+124. Checkout remote branch
+4min
+Play
+125. Git remote show origin
+3min
+Play
+126. Git fetch in action
+6min
+Play
+127. Git pull is 2-step process
+4min
+Play
+128. How to perform git pull
+5min
+Play
+129. What is FETCH_HEAD
+8min
+Play
+130. Git pull with fast forward merge
+8min
+Play
+131. Fetch remote changes manually
+9min
+Play
+132. Merge FETCH_HEAD manually
+6min
+Play
+133. Resolving conflicts during Git pull
+12min
+Play
+134. Pushing to remote repository
+9min
+Play
+135. Commit under another author
+3min
+Play
+136. Remote and local branches are in sync now
+4min
+Play
+137. Create remote branch based on local branch
+9min
+Play
+138. Update tracking statuses of the branches
+8min
+Play
+139. Remove remote branch using local terminal
+4min
+Play
+140. Git show-ref
+4min
+Play
+141. Section 11 Introduction
+1min
+Start
+142. PDF - Pull requests
+1min
+Play
+143. Collaboration between contributors
+4min
+Play
+144. What is pull request?
+3min
+Play
+145. Why pull request was named pull request
+6min
+Play
+146. Pull request or Merge request
+5min
+Play
+147. Pull request step-by-step
+8min
+Play
+148. Create new repository at GitHub
+7min
+Play
+149. Changing author of the last commit
+3min
+Play
+150. Pushing branch to remote
+5min
+Play
+151. Open pull request
+8min
+Play
+152. Adding comments and approving pull request
+9min
+Play
+153. Creating and publishing new branch using GitHub Desktop
+5min
+Play
+154. Signing in to GitHub in the GitHub Desktop
+1min
+Play
+155. Creating and merging pull request
+9min
+Play
+156. Adding new collaborator under GitHub
+4min
+Play
+157. Exploring own GitHub account
+5min
+Play
+158. Opening and merging PR by collaborator
+7min
+Play
+159. By default merging is allowed without approvals
+2min
+Play
+160. Configure protected branch rule
+4min
+Play
+161. Merging after required approve
+3min
+Play
+162. Exploring pull requests in the public repositories
+6min
+Play
+163. Working with issues at GitHub
+12min
+Play
+164. Section 12 Introduction
+1min
+Start
+165. PDF - Forks and contribution to the public repositories
+1min
+Play
+166. Creating Fork
+5min
+Play
+167. How to sync changes from the parent repository
+5min
+Play
+168. Adding new upstream remote repository
+2min
+Play
+169. Fetching changes from upstream
+2min
+Play
+170. Synchronizing changes from upstream
+11min
+Play
+171. How to open pull request from the forked repository
+3min
+Play
+172. Plan for creating pull request from the forked repository
+2min
+Play
+173. Removing repository collaborator
+2min
+Play
+174. Forking repository
+3min
+Play
+175. Committing changes in the forked repository
+3min
+Play
+176. Open pull request from the forked repository
+5min
+Play
+177. Approving and merging pull request from the forked repository
+12min
+Play
+178. Section 13 Introduction
+1min
+Start
+179. PDF - Git Tags
+1min
+Play
+180. Git tags overview
+3min
+Play
+181. Staging vs Production
+7min
+Play
+182. Semantic versioning
+11min
+Play
+183. Lightweight vs Annotated tags
+4min
+Play
+184. Creating lightweight tags
+10min
+Play
+185. Creating annotated tag
+3min
+Play
+186. Exploring git tag object
+3min
+Play
+187. Pushing tags to remote
+10min
+Play
+188. Section 14 Introduction
+1min
+Start
+189. PDF - Rebasing
+1min
+Play
+190. Introduction to Rebasing
+2min
+Play
+191. Merging vs Rebasing
+5min
+Play
+192. How to perform rebasing
+2min
+Play
+193. Rebasing - STEP 1
+3min
+Play
+194. Rebasing - STEP 2
+3min
+Play
+195. Creating new repository
+2min
+Play
+196. Creating feature branch and making changes
+5min
+Play
+197. Rebasing feature branch on top of master branch
+3min
+Play
+198. Completing rebasing by performing merging
+2min
+Play
+199. Exploring graph and commits in SourceTree
+5min
+Play
+200. Deleteing feature branch and pushing to remote
+2min
+Play
+201. Section 15 Introduction
+1min
+Start
+202. PDF - Ignoring files in Git
+1min
+Play
+203. Introduction go Git ignore
+2min
+Play
+204. Git file statuses - untracked, tracked and ignored
+2min
+Play
+205. Basic gitignore rules
+8min
+Play
+206. Pushing repository with ignored files to remote
+3min
+Play
+207. Committing previously ignored file
+3min
+Play
+208. Ignore previously committed file
+4min
+Play
+209. Git ignore common practices and templates
+6min
+Play
+210. Section 16 Introduction
+1min
+Start
+211. PDF - Detached HEAD
+1min
+Play
+212. Detached HEAD state
+4min
+Play
+213. Making experimental commits in detached HEAD state
+8min
+Play
+214. Retaining changes made in the detached HEAD state
+8min
+Play
+215. Section 17 Introduction
+1min
+Play
+216. Cloning one of the public repositories
+3min
+Start
+217. If "git lg" command is not available
+1min
+Play
+218. Git log options - oneline, graph, stat
+6min
+Play
+219. Git shortlog
+2min
+Play
+220. Filtering commits by author or keyword
+3min
+Play
+221. Pretty formatting of git log
+3min
+Play
+222. Filter out merge commits in git log
+3min
+Play
+223. Git reset
+10min
+Play
+224. Git revert
+9min
+Play
+225. Modifying last commit using amend option
+4min
+Play
+226. Cherry-picking commits
+6min
+Play
+227. Reflog - log of all Git operations
+7min
+Play
+228. Stashing changes using terminal
+5min
+Play
+229. Stashing using GitHub Desktop
+2min
+Play
+230. Garbage collection
+3min
+Play
+231. Squashing of commits at GitHub
+8min
+Play
+232. Interactive rebasing with squashing in the local repository
+8min
+Play
+233. Git development workflow
+6min
+Play
+234. Section 18 Introduction
+2min
+Play
+235. Creating simple website using GitHub Pages
+4min
+Play
+236. Hosting any Repository using GitHub Pages
+8min
+Play
+237. Creating basic React application
+10min
+Play
+238. Preparing React application for publish to the GitHub Pages
+9min
+Play
+239. Fixing error with cached credentials by using SSH instead of HTTPS
+11min
+Play
+240. Verifying React GitHub Page
+7min
+Play
+241. Configuring custom domain for GitHub Pages
+11min
+Play
+242. Creating static GitHub Page using markdown
+5min
+Play
+243. Section 19 Introduction
+2min
+Start
+244. PDF - Git Hooks
+1min
+Play
+245. Normal Git workflow without Hooks
+3min
+Play
+246. What are Git Hooks
+7min
+Play
+247. How Git Hooks could be used on practice
+5min
+Play
+248. Using pre-commit Hook
+13min
+Play
+249. Enabling post-commit Hook
+5min
+Play
+250. Disabling rebasing using pre-rebase Hook
+7min
+Play
+251. Match authors Email against Regular Expression
+7min
+Play
+252. Local Git Hooks are NOT pushed to the remote
+7min
+Play
+253. Cleaning up Local Git Hooks repository
+5min
+Play
+254. Initializing new Node.js project
+8min
+Play
+255. Installing Jest NPM package for testing
+3min
+Play
+256. Adding mult and sum modules with tests
+10min
+Start
+257. Which Husky version to install
+1min
+Play
+258. Using pre-commit NPM package for automation of the pre-commit hook
+7min
+Play
+259. Cloning remote repository and verifying pre-commit hook
+4min
+Play
+260. Replacing pre-commit NPM package with husky
+6min
+Play
+261. Skipping all Git Hooks using --no-verify option
+5min
+Play
+262. Introduce linter and run linter in the pre-commit Hook
+14min
+Play
+263. Introducing lint-staged package for checks only of the staged files
+6min
+Play
+264. Verifying selective linting and testing using lint-staged
+5min
+Play
+265. Adding post-commit Hook
+4min
+Play
+266. Verifying commit message using commitlint
+10min
+Play
+267. Git Hooks Summary
+3min
+Play
+268. Git Crash Course Overview
+2min
+Play
+269. Installing Git
+1min
+Play
+270. Initializing new Git Repository
+4min
+Play
+271. Git Object Types
+1min
+Play
+272. Hashes of the Git Objects
+2min
+Play
+273. Adding changes to the Staging Area
+7min
+Play
+274. Configuring Git author name and email
+4min
+Play
+275. Committing changes
+3min
+Play
+276. Exploring commits history
+6min
+Play
+277. Basic Git Commands
+2min
+Play
+278. Checking out commits and branches
+4min
+Play
+279. File tracking statuses in Git
+3min
+Play
+280. Staging and Committing changes using one command
+3min
+Play
+281. Branches and merging of the branches
+6min
+Play
+282. Branches merging in action
+8min
+Play
+283. Exploring commits tree using graph option
+2min
+Play
+284. GitHub and repository hosting services Overview
+3min
+Play
+285. Creating remote repository at GitHub
+3min
+Play
+286. Pushing from the local repository to remote
+4min
+Play
+287. Committing at GitHub and pulling to the local repository
+3min
+Play
+288. Exploring and reading Git Objects
+4min
+Play
+289. Reading contents of the HEAD file
+1min
+Play
+290. Git Crash Course Summary
+1min
+Play
+291. Wrap Up
+1min
+Start
+292. Bonus Lecture
+1min
+
+
+
+
+
+
+
+=======================================================================================================================
+$ git help -a
+See 'git help <command>' to read about a specific subcommand
+
+Main Porcelain Commands
+   add                  Add file contents to the index
+   am                   Apply a series of patches from a mailbox
+   archive              Create an archive of files from a named tree
+   bisect               Use binary search to find the commit that introduced a bug
+   branch               List, create, or delete branches
+   bundle               Move objects and refs by archive
+   checkout             Switch branches or restore working tree files
+   cherry-pick          Apply the changes introduced by some existing commits
+   citool               Graphical alternative to git-commit
+   clean                Remove untracked files from the working tree
+   clone                Clone a repository into a new directory
+   commit               Record changes to the repository
+   describe             Give an object a human readable name based on an available ref
+   diff                 Show changes between commits, commit and working tree, etc
+   fetch                Download objects and refs from another repository
+   format-patch         Prepare patches for e-mail submission
+   gc                   Cleanup unnecessary files and optimize the local repository
+   gitk                 The Git repository browser
+   grep                 Print lines matching a pattern
+   gui                  A portable graphical interface to Git
+   init                 Create an empty Git repository or reinitialize an existing one
+   log                  Show commit logs
+   maintenance          Run tasks to optimize Git repository data
+   merge                Join two or more development histories together
+   mv                   Move or rename a file, a directory, or a symlink
+   notes                Add or inspect object notes
+   pull                 Fetch from and integrate with another repository or a local branch
+   push                 Update remote refs along with associated objects
+   range-diff           Compare two commit ranges (e.g. two versions of a branch)
+   rebase               Reapply commits on top of another base tip
+   reset                Reset current HEAD to the specified state
+   restore              Restore working tree files
+   revert               Revert some existing commits
+   rm                   Remove files from the working tree and from the index
+   shortlog             Summarize 'git log' output
+   show                 Show various types of objects
+   sparse-checkout      Initialize and modify the sparse-checkout
+   stash                Stash the changes in a dirty working directory away
+   status               Show the working tree status
+   submodule            Initialize, update or inspect submodules
+   switch               Switch branches
+   tag                  Create, list, delete or verify a tag object signed with GPG
+   worktree             Manage multiple working trees
+
+Ancillary Commands / Manipulators
+   config               Get and set repository or global options
+   fast-export          Git data exporter
+   fast-import          Backend for fast Git data importers
+   filter-branch        Rewrite branches
+   mergetool            Run merge conflict resolution tools to resolve merge conflicts
+   pack-refs            Pack heads and tags for efficient repository access
+   prune                Prune all unreachable objects from the object database
+   reflog               Manage reflog information
+   remote               Manage set of tracked repositories
+   repack               Pack unpacked objects in a repository
+   replace              Create, list, delete refs to replace objects
+
+Ancillary Commands / Interrogators
+   annotate             Annotate file lines with commit information
+   blame                Show what revision and author last modified each line of a file
+   bugreport            Collect information for user to file a bug report
+   count-objects        Count unpacked number of objects and their disk consumption
+   difftool             Show changes using common diff tools
+   fsck                 Verifies the connectivity and validity of the objects in the database
+   gitweb               Git web interface (web frontend to Git repositories)
+   help                 Display help information about Git
+   instaweb             Instantly browse your working repository in gitweb
+   merge-tree           Show three-way merge without touching index
+   rerere               Reuse recorded resolution of conflicted merges
+   show-branch          Show branches and their commits
+   verify-commit        Check the GPG signature of commits
+   verify-tag           Check the GPG signature of tags
+   whatchanged          Show logs with difference each commit introduces
+
+Interacting with Others
+   archimport           Import a GNU Arch repository into Git
+   cvsexportcommit      Export a single commit to a CVS checkout
+   cvsimport            Salvage your data out of another SCM people love to hate
+   cvsserver            A CVS server emulator for Git
+   imap-send            Send a collection of patches from stdin to an IMAP folder
+   p4                   Import from and submit to Perforce repositories
+   quiltimport          Applies a quilt patchset onto the current branch
+   request-pull         Generates a summary of pending changes
+   send-email           Send a collection of patches as emails
+   svn                  Bidirectional operation between a Subversion repository and Git
+
+Low-level Commands / Manipulators
+   apply                Apply a patch to files and/or to the index
+   checkout-index       Copy files from the index to the working tree
+   commit-graph         Write and verify Git commit-graph files
+   commit-tree          Create a new commit object
+   hash-object          Compute object ID and optionally creates a blob from a file
+   index-pack           Build pack index file for an existing packed archive
+   merge-file           Run a three-way file merge
+   merge-index          Run a merge for files needing merging
+   mktag                Creates a tag object with extra validation
+   mktree               Build a tree-object from ls-tree formatted text
+   multi-pack-index     Write and verify multi-pack-indexes
+   pack-objects         Create a packed archive of objects
+   prune-packed         Remove extra objects that are already in pack files
+   read-tree            Reads tree information into the index
+   symbolic-ref         Read, modify and delete symbolic refs
+   unpack-objects       Unpack objects from a packed archive
+   update-index         Register file contents in the working tree to the index
+   update-ref           Update the object name stored in a ref safely
+   write-tree           Create a tree object from the current index
+
+Low-level Commands / Interrogators
+   cat-file             Provide content or type and size information for repository objects
+   cherry               Find commits yet to be applied to upstream
+   diff-files           Compares files in the working tree and the index
+   diff-index           Compare a tree to the working tree or index
+   diff-tree            Compares the content and mode of blobs found via two tree objects
+   for-each-ref         Output information on each ref
+   for-each-repo        Run a Git command on a list of repositories
+   get-tar-commit-id    Extract commit ID from an archive created using git-archive
+   ls-files             Show information about files in the index and the working tree
+   ls-remote            List references in a remote repository
+   ls-tree              List the contents of a tree object
+   merge-base           Find as good common ancestors as possible for a merge
+   name-rev             Find symbolic names for given revs
+   pack-redundant       Find redundant pack files
+   rev-list             Lists commit objects in reverse chronological order
+   rev-parse            Pick out and massage parameters
+   show-index           Show packed archive index
+   show-ref             List references in a local repository
+   unpack-file          Creates a temporary file with a blob's contents
+   var                  Show a Git logical variable
+   verify-pack          Validate packed Git archive files
+
+Low-level Commands / Syncing Repositories
+   daemon               A really simple server for Git repositories
+   fetch-pack           Receive missing objects from another repository
+   http-backend         Server side implementation of Git over HTTP
+   send-pack            Push objects over Git protocol to another repository
+   update-server-info   Update auxiliary info file to help dumb servers
+
+Low-level Commands / Internal Helpers
+   check-attr           Display gitattributes information
+   check-ignore         Debug gitignore / exclude files
+   check-mailmap        Show canonical names and email addresses of contacts
+   check-ref-format     Ensures that a reference name is well formed
+   column               Display data in columns
+   credential           Retrieve and store user credentials
+   credential-cache     Helper to temporarily store passwords in memory
+   credential-store     Helper to store credentials on disk
+   fmt-merge-msg        Produce a merge commit message
+   interpret-trailers   Add or parse structured information in commit messages
+   mailinfo             Extracts patch and authorship from a single e-mail message
+   mailsplit            Simple UNIX mbox splitter program
+   merge-one-file       The standard helper program to use with git-merge-index
+   patch-id             Compute unique ID for a patch
+   sh-i18n              Git's i18n setup code for shell scripts
+   sh-setup             Common Git shell script setup code
+   stripspace           Remove unnecessary whitespace
+
+External commands
+   askyesno
+   credential-helper-selector
+   flow
+   lfs
+(END)
+   check-attr           Display gitattributes information
+   check-ignore         Debug gitignore / exclude files
+   check-mailmap        Show canonical names and email addresses of contacts
+   check-ref-format     Ensures that a reference name is well formed
+   column               Display data in columns
+   credential           Retrieve and store user credentials
+   credential-cache     Helper to temporarily store passwords in memory
+   credential-store     Helper to store credentials on disk
+   fmt-merge-msg        Produce a merge commit message
+   interpret-trailers   Add or parse structured information in commit messages
+   mailinfo             Extracts patch and authorship from a single e-mail message
+   mailsplit            Simple UNIX mbox splitter program
+   merge-one-file       The standard helper program to use with git-merge-index
+   patch-id             Compute unique ID for a patch
+   sh-i18n              Git's i18n setup code for shell scripts
+   sh-setup             Common Git shell script setup code
+   stripspace           Remove unnecessary whitespace
+
+External commands
+   askyesno
+   credential-helper-selector
+   flow
+   lfs
+   
+   
+ ==================================================Git Object types===========================
+ 
+ 1. Blob
+ 2. Tree
+ 3. commit
+ 4. Annotated Tag
+ 
+ Blob   --> Blob represents the single file in the file system
+ Tree   --> 
+ Commit -->
+ Annotated Tag -->
+ 
+ 
+ =========================================git Low Level Commands ==============================
+ 
+ 1. git hash-object
+ 2. git cat-file
+ 3. git mktree
+ 
+ ===========================================Hash Functions===================================
+ Hash is the one way functioins
+ 
+ -> MD5 (128 bit)
+ -> SHA1 (160 bit)(Base 16) (40 hexadecimal characters)(git generally uses this hash functions)
+     e.g, b7aec520dec0a7516c18eb4c68b64ae1eb9b5a5e
+ -> SHA256 (256 bit)
+ -> SHA384 (384 bit)
+ -> SHA512 (512 bit)
+ 
+ 
+ =======================================================
+ 
+ 1. echo "Hello, Git" | git hash-object --stdin -w
+	b7aec520dec0a7516c18eb4c68b64ae1eb9b5a5e
+
+ 
+ 
+ 2. echo -n 'Hello, Git!' | shasum
+	1d4d7d92f79dc328154dc91424e6e740f8f5a563 *-
+
+
+========================================git cat-file options =================
+
+git cat-file -p <hash>  -- content of object
+
+git cat-file -t <hash>  -- size of object
+
+git cat-file -s <hash>  -- type of object
+
+===============================================================================
+
+git cat-file -p b7aec520dec0a7516c18eb4c68b64ae1eb9b5a5e
+Hello, Git
+
+git cat-file -t b7aec520dec0a7516c18eb4c68b64ae1eb9b5a5e
+blob
+
+git cat-file -s b7aec520dec0a7516c18eb4c68b64ae1eb9b5a5e
+11
+
+===============================================================================
+
+echo -e "blob 30\0Second file in Git repository" | shasum
+4400aae52a27341314f423095846b1f215a7cf08 *-
+
+echo "Second file in Git repository" | git hash-object --stdin -w
+4400aae52a27341314f423095846b1f215a7cf08
+
+
+======================Git Object Permissions========================================
+
+040000    Directory
+100644 	  Regular non-executable file
+100664	  Regular non-executable group-writeable file
+100755	  Regular executable file
+120000    Symbolic link
+160000    Gitlink
+
+====================================Git Tree=========================================
+
+100644 blob b7aec520dec0a7516c18eb4c68b64ae1eb9b5a5e	file1.txt
+100644 blob 4400aae52a27341314f423095846b1f215a7cf08	file2.txt
+
+cat temp-tree.txt | git mktree
+3b95df0ac6365c72e9b0ff6c449645c87e6e1159
+
+git cat-file -s 3b95
+74
+
+git cat-file -p 3b95df
+100644 blob b7aec520dec0a7516c18eb4c68b64ae1eb9b5a5e    file1.txt
+100644 blob 4400aae52a27341314f423095846b1f215a7cf08    file2.txt
+
+git cat-file -t 3b95df
+tree
+
+
+============================================================================
+
+16 * 16  = 256 folders can be created in objects folder
+
+=============================================================================
+
+working directory  <--> Staging Area (Index)  <--> Git Repositories
+
+git ls-files   --> to list the files in the staging area
+git read-tree <hash> --> to retrive files from git repository to staging area(index).
+
+e.g, git read-tree 3b95
+
+git checkout-index -a --> to pull files from staging area to working directory.
+
+=========================Commit=====================================
+
+Commit  -> author name and email. commit description , parent
+
+
+=====================Set Git Author name and email==================
+
+git config --global user.name <Name>
+
+git config --global user.email <Email>
+
+======================Basic Git Commands=========================
+
+git status   - current state of Git repository
+git add      - Add files to staging area
+git commit   - Write changes to Git repository
+git log 	 - History of changes (commits)
+git checkout  - Checkout commit or branch
+
+========================file tracking statuses====================
+
+Untracked 
+Unmodified
+Modified
+Staged
+
+==================================================================
+git add file3.txt  -- to add file3.txt into staging area.
+
+git rm --cached file3.txt  --> to remove the file from staging area.
+rm 'file3.txt'
+
+=====================Branch is just text reference to the commit===============
+
+1. Default branch is master
+2. Multiple branches can exist in the same repository
+3. Pointers for all branches are located in .git/refs/heads folder
+4. Current branch tracks new commits
+5. Branch pointer moves automatically after every new commit
+6. Changed branch git checkout <branch>
+
+==================================================================================
+cat master
+16630f3889ff305ff3f4b2f6a8587ea5f0a090ec
+
+
+===========================HEAD==================================================
+
+HEAD is reference to the currently checked-out branch or commit
+
+1. HEAD is locally significant
+2. Pointer is located in the .git/HEAD file
+3. Default pointer is ref:refs/heads/master
+4. Change reference to specific branch git checkout <branch>
+5. Change reference to specific commit git checkout <sha1>
+
+==================================================================================
+git checkout 16630f3889   --> changing head to a specific commit
+
+git log
+commit 16630f3889ff305ff3f4b2f6a8587ea5f0a090ec (HEAD)
+Author: Gowthaman <gvaikundanathan@streamlinehealthcare.com>
+Date:   Fri Oct 7 23:34:58 2022 +0530
+
+    Second commit
+
+commit ecdb8ed18292698a90eb42d28aa78c8968af331a
+Author: Gowthaman <gvaikundanathan@streamlinehealthcare.com>
+Date:   Fri Oct 7 22:44:00 2022 +0530
+
+    Our very first commit in the project
+
+
+git checkout ecdb8ed182
+Previous HEAD position was 16630f3 Second commit
+HEAD is now at ecdb8ed Our very first commit in the project	
+======================================================================
+
+Git branches management
+
+git branch         --> List all local branches
+git branch <name>  --> Create new branch
+git checkout <name>  --> Checkout specific branch
+git branch -d <name>  --> Delete specific branch
+git branch -m <old> <new> --> Rename specific branch
+git checkout -b <branch name> --> Shortcut for creating a branch with checkout
+git commit -m "Hello, Gowtham was added in file4.txt" -a  --> directly commits changes to git directory after adding to staging area by single command
+=======================================================================
+git branch -m temp new-temp
+
+git checkout new-temp
+Switched to branch 'new-temp'
+
+git checkout master
+Switched to branch 'master'
+
+git branch -d new-temp
+Deleted branch new-temp (was d63d3b7).
+
+git checkout -b BR-1
+Switched to a new branch 'BR-1'
+
+git unpack-objects   --> to unpack .pack file
+
+
+git diff
+warning: LF will be replaced by CRLF in file4.txt.
+The file will have its original line endings in your working directory
+diff --git a/file4.txt b/file4.txt
+index faf91ad..aac431a 100644
+--- a/file4.txt
++++ b/file4.txt
+@@ -1,2 +1,3 @@
+ Hello, Git
+ Hi,I'm there
++Hello, Gowtham
+
+git commit -m "Hello, Gowtham was added in file4.txt" -a
+warning: LF will be replaced by CRLF in file4.txt.
+The file will have its original line endings in your working directory
+[BR-1 eeb2579] Hello, Gowtham was added in file4.txt
+ 1 file changed, 1 insertion(+)
+ 
+===========================Merging branches==================================
+Types :-
+1. Fast-forward merge
+2. 3-way merge
+ 
+==================Fast-forward merge====================================
+
+It simply moves the master branch pointer to new-feature branch last commit
+conditions:- there is no commit in master branch after creating new-feature branch.
+             that time, we can apply Fast-Forward merge.
+
+
+Merging process:-
+
+1. Create new feature branch from the main branch
+2. Make changes in the new branch and commit them
+3. Checkout main branch (receiving branch)
+4. Merge feature branch to the current receiving branch
+
+git merge <feature-branch>
+
+git merge BR-1
+Updating d63d3b7..eeb2579
+Fast-forward
+ file4.txt | 3 +++
+ 1 file changed, 3 insertions(+)
+ create mode 100644 file4.txt 
+
+git branch -d BR-1
+Deleted branch BR-1 (was eeb2579).
+===========================3-Way Merge===================================
+it creates a new merge commit in the master branch
+
+git merge BR-2
+Merge made by the 'recursive' strategy.
+ file5.txt | 1 +
+ file6.txt | 1 +
+ 2 files changed, 2 insertions(+)
+ create mode 100644 file5.txt
+ create mode 100644 file6.txt
+
+
+
+git log
+commit eb1ffb964afdb199905390e92ea773bf128a39c7 (HEAD -> master)
+Merge: f763f86 cdd1064
+Author: Gowthaman <gvaikundanathan@streamlinehealthcare.com>
+Date:   Sun Oct 9 09:31:18 2022 +0530
+
+    Merge branch 'BR-2' to 'Master'
+
+commit f763f865dee68fcd739c59a5d0e81c139d6d04db
+Author: Gowthaman <gvaikundanathan@streamlinehealthcare.com>
+Date:   Sun Oct 9 09:30:52 2022 +0530
+
+    file7.txt wad added into master branch
+
+commit cdd10640e7845892c839c4f13b9cecf483c3184e (BR-2)
+Author: Gowthaman <gvaikundanathan@streamlinehealthcare.com>
+Date:   Sun Oct 9 09:26:30 2022 +0530
+
+    file6.txt was added into BR-2 branch
+
+commit adccc0ee37561c6686b73ed816607b7cdeddb86c
+Author: Gowthaman <gvaikundanathan@streamlinehealthcare.com>
+Date:   Sun Oct 9 09:19:18 2022 +0530
+
+    file5.txt was added
+
+git cat-file -p  eb1ffb964afdb
+tree a4411ac40a4945fc4c660d51f69fc88b9555bc8b
+parent f763f865dee68fcd739c59a5d0e81c139d6d04db
+parent cdd10640e7845892c839c4f13b9cecf483c3184e
+author Gowthaman <gvaikundanathan@streamlinehealthcare.com> 1665288078 +0530
+committer Gowthaman <gvaikundanathan@streamlinehealthcare.com> 1665288078 +0530
+
+
+git branch -d BR-2
+Deleted branch BR-2 (was cdd1064).
+
+=============================Merge Conflicts==============================
+1. Merge conflicts don't appear in fast forward merge
+2. Same files were edited in both branches
+
+git merge BR-3
+Auto-merging file5.txt
+CONFLICT (content): Merge conflict in file5.txt
+Automatic merge failed; fix conflicts and then commit the result.
+
+git ls-files -s
+100644 bafcffddedb62b4079dce51c521aea9afe31f910 0       New-Folder/file7.txt
+100644 aac431a3d3f2ddcde279ec5110f102f3e67cd280 0       file4.txt
+100644 3fa0d4b98289a95a7cd3a45c9545e622718f8d2b 1       file5.txt
+100644 3817a1db1ada8fc16e1e96c7d09fd57ede1c389e 2       file5.txt
+100644 f5a5ce179b88e2f6edd33a1cc52a57446858d871 3       file5.txt
+100644 c33d75ed45b35f3a2949bc3b60b85831a3e8d9c5 0       file6.txt
+
+git cat-file -p 3fa0d4b9
+Hello, World
+
+git cat-file -p 3817a1db1
+Hello, World
+Newline was added in file5.txt of master branch
+
+git cat-file -p f5a5ce179b
+Hello, World
+NewLine was added in file5.txt of BR-3 branch
+
+git commit
+[master 46c9582] Merge branch 'BR-3'
+
+git log
+commit 46c958202018fe8506981cd21db9119be0becd66 (HEAD -> master)
+Merge: b22cbfb 048dc4d
+Author: Gowthaman <gvaikundanathan@streamlinehealthcare.com>
+Date:   Sun Oct 9 13:21:44 2022 +0530
+
+    Merge branch 'BR-3'
+
+==========================Remote Repositories=========================
+
+git push   -- push to remote repository.
+
+git fetch  -- fetch updates.
+
+git pull   -- merge changes from remote repository.
+
+origin   -- default remote repository name in local
+============================================
+Tracking branches
+
+git checkout feature-1    --> to track specific remote branch with local branch/ cloning specific remote branch to local
+
+git branch -r             -- to list remote branch only
+
+  origin/HEAD -> origin/main
+  origin/feature-1
+  origin/main
+
+git branch -vv                 -- to view the local branch tracking with remote branch
+* feature-1 b57478c [origin/feature-1] Create hello-github.txt
+  main      f548d5e [origin/main] git readme commit
+  
+  
+git branch -a                  -- to list all the branch
+* feature-1
+  main
+  remotes/origin/HEAD -> origin/main
+  remotes/origin/feature-1
+  remotes/origin/main
+
+
+git remote show origin  --> to show the detailed info of local and remote repository.
+
+git fetch   --> it will fetch the branch/objects from remote repo to local git repo, but not local tracking branches
+$ git fetch
+From https://github.com/vintage-coder/Git-Practice
+ * [new branch]      temp       -> origin/temp
+
+To set up to track remote branch 'temp' from 'origin'
+git checkout temp
+Switched to a new branch 'temp'
+Branch 'temp' set up to track remote branch 'temp' from 'origin'.
+
+git branch -vv
+  feature-1 b57478c [origin/feature-1] Create hello-github.txt
+  main      f548d5e [origin/main] git readme commit
+* temp      f548d5e [origin/temp] git readme commit
+
+
+git remote show origin
+* remote origin
+  Fetch URL: https://github.com/vintage-coder/Git-Practice.git
+  Push  URL: https://github.com/vintage-coder/Git-Practice.git
+  HEAD branch: main
+  Remote branches:
+    feature-1                tracked
+    main                     tracked
+    refs/remotes/origin/temp stale (use 'git remote prune' to remove)
+  Local branches configured for 'git pull':
+    feature-1 merges with remote feature-1
+    main      merges with remote main
+    temp      merges with remote temp
+  Local refs configured for 'git push':
+    feature-1 pushes to feature-1 (up to date)
+    main      pushes to main      (up to date)
+	
+	
+
+$ git remote prune origin
+Pruning origin
+URL: https://github.com/vintage-coder/Git-Practice.git
+ * [pruned] origin/temp
+
+
+
+git remote show origin
+* remote origin
+  Fetch URL: https://github.com/vintage-coder/Git-Practice.git
+  Push  URL: https://github.com/vintage-coder/Git-Practice.git
+  HEAD branch: main
+  Remote branches:
+    feature-1 tracked
+    main      tracked
+  Local branches configured for 'git pull':
+    feature-1 merges with remote feature-1
+    main      merges with remote main
+    temp      merges with remote temp
+  Local refs configured for 'git push':
+    feature-1 pushes to feature-1 (up to date)
+    main      pushes to main      (up to date)
+
+
+git branch -vv
+  feature-1 b57478c [origin/feature-1] Create hello-github.txt
+  main      f548d5e [origin/main] git readme commit
+* temp      f548d5e [origin/temp: gone] git readme commit
+
+
+git branch -d temp
+Deleted branch temp (was f548d5e).
+
+
+$ git remote show origin
+* remote origin
+  Fetch URL: https://github.com/vintage-coder/Git-Practice.git
+  Push  URL: https://github.com/vintage-coder/Git-Practice.git
+  HEAD branch: main
+  Remote branches:
+    feature-1 tracked
+    main      tracked
+  Local branches configured for 'git pull':
+    feature-1 merges with remote feature-1
+    main      merges with remote main
+  Local refs configured for 'git push':
+    feature-1 pushes to feature-1 (up to date)
+    main      pushes to main      (up to date)
+
+
+%%%% Git pull consists of Git fetch and git merge %%%%
+
+%%%% Git pull updates only single local currently checked out branch %%%%
+
+=========================== Git Pull ======================================
+
+1. Checkout local branch and make sure it is tracking branck and has corresponding remote 
+   branch. Use git branch -vv for check.
+   
+2. Enter git pull
+
+3. Git will fetch all changes from remote repository - git fetch is executed in background
+
+4. After fetching Git updates FETCH_HEAD file that contains SHA1 hashes of last
+   commits in remote repository for all tracking branches.
+   
+5. Git merges remote branch into current branch git merge FETCH_HEAD
+
+============================================================================
+
+ git fetch -v
+POST git-upload-pack (165 bytes)
+From https://github.com/vintage-coder/Git-Practice
+ = [up to date]      main       -> origin/main
+ = [up to date]      feature-1  -> origin/feature-1
+
+
+$ git pull -v
+POST git-upload-pack (165 bytes)
+From https://github.com/vintage-coder/Git-Practice
+ = [up to date]      main       -> origin/main
+ = [up to date]      feature-1  -> origin/feature-1
+Already up to date.
+
+git pull -v
+POST git-upload-pack (165 bytes)
+POST git-upload-pack (268 bytes)
+remote: Enumerating objects: 5, done.
+remote: Counting objects: 100% (5/5), done.
+remote: Compressing objects: 100% (2/2), done.
+remote: Total 4 (delta 1), reused 0 (delta 0), pack-reused 0
+Unpacking objects: 100% (4/4), 756 bytes | 108.00 KiB/s, done.
+From https://github.com/vintage-coder/Git-Practice
+ = [up to date]      main       -> origin/main
+   b57478c..74fe765  feature-1  -> origin/feature-1
+Already up to date.
+
+
+git pull -v
+POST git-upload-pack (165 bytes)
+From https://github.com/vintage-coder/Git-Practice
+ = [up to date]      feature-1  -> origin/feature-1
+ = [up to date]      main       -> origin/main
+Updating b57478c..74fe765
+Fast-forward
+ feature/another-file.txt | 1 +
+ 1 file changed, 1 insertion(+)
+ create mode 100644 feature/another-file.txt
+
+
+ cat .git/FETCH_HEAD
+c5ccd6201a4f176e181340f60957010655ec99d3                branch 'feature-1' of https://github.com/vintage-coder/Git-Practice
+f548d5ec871a1d606686317a6ad677606726380d        not-for-merge   branch 'main' of https://github.com/vintage-coder/Git-Practice
+
+ git merge FETCH_HEAD
+Merge made by the 'recursive' strategy.
+ feature/one-more-file.txt | 1 +
+ 1 file changed, 1 insertion(+)
+ create mode 100644 feature/one-more-file.txt
+
+
+ git pull -v
+POST git-upload-pack (165 bytes)
+POST git-upload-pack (518 bytes)
+remote: Enumerating objects: 5, done.
+remote: Counting objects: 100% (5/5), done.
+remote: Compressing objects: 100% (3/3), done.
+remote: Total 3 (delta 1), reused 0 (delta 0), pack-reused 0
+Unpacking objects: 100% (3/3), 755 bytes | 125.00 KiB/s, done.
+From https://github.com/vintage-coder/Git-Practice
+   c5ccd62..114aee3  feature-1  -> origin/feature-1
+ = [up to date]      main       -> origin/main
+Auto-merging README.md
+CONFLICT (content): Merge conflict in README.md
+Automatic merge failed; fix conflicts and then commit the result.
+
+
+git commit -a
+[feature-1 4295ff9] Merge branch 'feature-1' of https://github.com/vintage-coder/Git-Practice into feature-1
+
+
+ git push -v
+Pushing to https://github.com/vintage-coder/Git-Practice.git
+Enumerating objects: 25, done.
+Counting objects: 100% (21/21), done.
+Delta compression using up to 16 threads
+Compressing objects: 100% (12/12), done.
+Writing objects: 100% (13/13), 1.60 KiB | 1.60 MiB/s, done.
+Total 13 (delta 4), reused 0 (delta 0), pack-reused 0
+POST git-receive-pack (1827 bytes)
+remote: Resolving deltas: 100% (4/4), completed with 2 local objects.
+To https://github.com/vintage-coder/Git-Practice.git
+   114aee3..4295ff9  feature-1 -> feature-1
+updating local tracking ref 'refs/remotes/origin/feature-1'
+
+git config user.name "Gowthaman"
+git config user.email "gowthamanvai@gmail.com"
+
+$ git push -v -u origin feature-2
+Pushing to https://github.com/vintage-coder/Git-Practice.git
+Enumerating objects: 7, done.
+Counting objects: 100% (7/7), done.
+Delta compression using up to 16 threads
+Compressing objects: 100% (4/4), done.
+Writing objects: 100% (4/4), 458 bytes | 458.00 KiB/s, done.
+Total 4 (delta 1), reused 0 (delta 0), pack-reused 0
+POST git-receive-pack (646 bytes)
+remote: Resolving deltas: 100% (1/1), completed with 1 local object.
+remote:
+remote: Create a pull request for 'feature-2' on GitHub by visiting:
+remote:      https://github.com/vintage-coder/Git-Practice/pull/new/feature-2
+remote:
+To https://github.com/vintage-coder/Git-Practice.git
+ * [new branch]      feature-2 -> feature-2
+updating local tracking ref 'refs/remotes/origin/feature-2'
+Branch 'feature-2' set up to track remote branch 'feature-2' from 'origin'.
+
+=====================update tracking status ===================
+
+1. Create new branch temp in the remote repository
+
+2. Checkout this new remote branch locally using git checkout temp.
+   Local tracking branch temp will be created.
+   
+3. Delete temp branch in the remote repository
+
+4. Use git fetch. After fetching observe tracking statuses git branch -vv
+   You will see that local temp branch still tracks remote temp branch.
+   
+5. Update tracking statuses using git remote update origin --prune
+
+6. Observe tracking statuses again using git branch -vv
+
+===============================================================
+$ git fetch
+From https://github.com/vintage-coder/Git-Practice
+ * [new branch]      temp       -> origin/temp
+
+gvaikundanathan@streamline361 MINGW64 /e/Git-Practice (feature-2)
+$ git branch -a
+  feature-1
+* feature-2
+  main
+  remotes/origin/HEAD -> origin/main
+  remotes/origin/feature-1
+  remotes/origin/feature-2
+  remotes/origin/main
+  remotes/origin/temp
+
+gvaikundanathan@streamline361 MINGW64 /e/Git-Practice (feature-2)
+$ git checkout temp
+Switched to a new branch 'temp'
+Branch 'temp' set up to track remote branch 'temp' from 'origin'.
+
+
+$ git remote update origin --prune
+Fetching origin
+From https://github.com/vintage-coder/Git-Practice
+ - [deleted]         (none)     -> origin/temp
+
+
+$ git branch -vv
+  feature-1 4295ff9 [origin/feature-1] Merge branch 'feature-1' of https://github.com/vintage-coder/Git-Practice into feature-1
+  feature-2 52ab29a [origin/feature-2] another change in feature-2 branch
+  main      f548d5e [origin/main] git readme commit
+* temp      f548d5e [origin/temp: gone] git readme commit
+
+
+
+git push -v -u origin feature-2    <======================> git push --set-upstream origin feature-2
+
+$ git checkout -b temp
+Switched to a new branch 'temp'
+
+gvaikundanathan@streamline361 MINGW64 /e/Git-Practice (temp)
+$ git branch
+  feature-1
+  feature-2
+  main
+* temp
+
+gvaikundanathan@streamline361 MINGW64 /e/Git-Practice (temp)
+$ git push -u origin temp
+Total 0 (delta 0), reused 0 (delta 0), pack-reused 0
+remote:
+remote: Create a pull request for 'temp' on GitHub by visiting:
+remote:      https://github.com/vintage-coder/Git-Practice/pull/new/temp
+remote:
+To https://github.com/vintage-coder/Git-Practice.git
+ * [new branch]      temp -> temp
+Branch 'temp' set up to track remote branch 'temp' from 'origin'.
+
+gvaikundanathan@streamline361 MINGW64 /e/Git-Practice (temp)
+$ git branch -a
+  feature-1
+  feature-2
+  main
+* temp
+  remotes/origin/HEAD -> origin/main
+  remotes/origin/feature-1
+  remotes/origin/feature-2
+  remotes/origin/main
+  remotes/origin/temp
+
+gvaikundanathan@streamline361 MINGW64 /e/Git-Practice (temp)
+$ git branch -vv
+  feature-1 4295ff9 [origin/feature-1] Merge branch 'feature-1' of https://github.com/vintage-coder/Git-Practice into feature-1
+  feature-2 52ab29a [origin/feature-2] another change in feature-2 branch
+  main      f548d5e [origin/main] git readme commit
+* temp      f548d5e [origin/temp] git readme commit
+
+gvaikundanathan@streamline361 MINGW64 /e/Git-Practice (temp)
+$ git push origin -d temp
+To https://github.com/vintage-coder/Git-Practice.git
+ - [deleted]         temp
+
+gvaikundanathan@streamline361 MINGW64 /e/Git-Practice (temp)
+$ git branch -a
+  feature-1
+  feature-2
+  main
+* temp
+  remotes/origin/HEAD -> origin/main
+  remotes/origin/feature-1
+  remotes/origin/feature-2
+  remotes/origin/main
+
+
+git show-ref    --> it will show all the references
+git show-ref main
+
+
+git show-ref main
+f548d5ec871a1d606686317a6ad677606726380d refs/heads/main
+f548d5ec871a1d606686317a6ad677606726380d refs/remotes/origin/main
+
+
+
+ git show-ref feature-1
+4295ff9b428ad2812c9e7ec389c15e1c3365d0d4 refs/heads/feature-1
+4295ff9b428ad2812c9e7ec389c15e1c3365d0d4 refs/remotes/origin/feature-1
+
+after commiting some changes in feature-2 branch,
+now feature-2 branch points to different commits both locally and remotly
+
+$ git show-ref feature-2
+1842c79786646ca8dac8b8bf7d1301901ab147ff refs/heads/feature-2
+52ab29a0f2c20d2f188bbcda7aee93625fd0317c refs/remotes/origin/feature-2
+
+=============================Pull request ================================
+Pull request are is a proposal of the potential changes
+
+git commit --amend --author="author name <author@gmail.com>" --> to replace the author and email of the last commit.
+
+git config --list
+
+=========================================== Git Tags ======================
+
+Git Tags are used for versioning of software.
+
+Semantic Versioning
+====================
+	* Lightweight   --> e.g, git tag v1.0.0  -> is stored in the .git/refs/tags
+	* Annotated Tag --> e.g, git tag -a v1.0.0 -m "New tag"  --> is stored in the .git/refs/tags, is also stored in the .git/objects
+	-> stores tag message
+	-> stores tag author and date.
+	
+v5.1.3  ---> 5->major, 1->minor, 3->patch
+
+git tag v1.0.0
+
+git show v1.0.0
+
+ls .git/refs/tags
+v1.0.0
+
+cat .git/refs/tags/v1.0.0
+ed2a1598ac7e80e560a036b45da8288a440e6b26
+
+git cat-file -p ed2a1598a
+object c829528cda6dfacb87199d62b2aa773e70d62992
+type commit
+tag v1.0.0
+tagger Gowthaman <gvaikundanathan@streamlinehealthcare.com> 1665840584 +0530
+
+Initial tag
+
+$ git cat-file -t ed2a1598a
+tag
+
+git push -v --tags   --> to push the tags to remote repo
+
+=============================Rebasing========================================
+
+Merging is a safe option that preserves the entire history of your repository, while rebasing creates a linear history by moving your feature branch onto the tip of main
+
+
+1. checkout feature branch   --> git checkout feature1
+
+2. Rebase feature branch on top of the base
+branch                                          --> git rebase master
+
+3. Checkout base branch     -->  git checkout master
+
+4. Merge feature branch into the base branch.  --> git merge feature1
+  Fast forware merge will be used.
+  
+  Note: Old commits from the feature1 will be garbage collected.
+=============================================================================
+$ git checkout feature1
+Switched to branch 'feature1'
+
+git rebase main
+Successfully rebased and updated refs/heads/feature1.
+
+git log
+
+commit d087a7822a9a694038798249be48173ca746714c (HEAD -> feature1)
+Author: Gowthaman <gvaikundanathan@streamlinehealthcare.com>
+Date:   Sat Oct 15 22:39:52 2022 +0530
+
+    third-file was modified
+
+commit f903b9ffc05fcc059cb93d490c6eb8af7b3611a7
+Author: Gowthaman <gvaikundanathan@streamlinehealthcare.com>
+Date:   Sat Oct 15 22:39:05 2022 +0530
+
+    Third file was added
+
+commit a28325d9aa720f61f14aa66c67b1bb2bf18b50b6 (main)
+Author: Gowthaman <gvaikundanathan@streamlinehealthcare.com>
+Date:   Sat Oct 15 22:40:52 2022 +0530
+
+    Fourth file was added in master branch
+
+commit fab061e9d5a377f26d5fe994840b90af7f62d66b
+Author: Gowthaman <gvaikundanathan@streamlinehealthcare.com>
+Date:   Sat Oct 15 22:38:00 2022 +0530
+
+    Second file was added
+
+commit 3189ffb7c36a877a6cb1023b48fae78ea28ac1dc
+Author: Gowthaman <gvaikundanathan@streamlinehealthcare.com>
+Date:   Sat Oct 15 22:36:43 2022 +0530
+
+    first file was added
+
+commit 5d664c9e5775eb35f9cca240e0ac7cc5428e607d (origin/main, origin/HEAD)
+Author: Vintage Coder <43435657+vintage-coder@users.noreply.github.com>
+Date:   Sat Oct 15 22:35:16 2022 +0530
+
+    Initial commit
+
+------------------- git logging ----------------------------------
+
+git log -4 --oneline
+
+git shortlog
+
+git shortlog -n
+
+git shortlog -n -s
+
+git shortlog -n -s -e
+
+-----------------Filtering commits by author or keyword-------------
+
+git log --author="Gowthaman"
+
+git log --author="Gowthaman"  --oneline
+
+git log --grep="locally"
+
+-------------Pretty formatting of git log---------------------------
+
+git log --pretty=format:"%H"
+
+git log --pretty=format:"%cn %H"
+
+git log --pretty=format:"Author of commit: %cn  Commit SHA1 hash: %h"
+
+git log --pretty=format:"Author of commit: %cn ; Commit SHA1 hash: %h ; Date: %cd"
+
+
+--------------filter out merge commits in git log--------------------
+
+git log --merges --oneline
+
+git log --no-merges --oneline
+
+
+----------------- Git reset ------------------------------
+
+1. --hard
+2. --mixed
+3. --soft
+
+git reset <commit>   --> it discard commits from git repository and unstages files
+                         from staging area, but, changes are present in working directory.
+	
+
+git reset --mixed <SHA hash> (default)
+
+- Discard commit
+- Discard changes in staging area (index)
+- Keep changes in working directory.
+
+
+
+git reset --soft <SHA hash>
+
+- Discard commit
+- Keep changes in staging area (index)
+- keep changes in working directory
+
+
+git reset --hard <SHA hash>
+
+- Discard commit
+- Discard changes in staging area (index)
+- Discard changes in working directory.
+
+
+git reset HEAD^5   --resets last 5 commits
+
+git show <SHA hash>  -- it shows the changes of specific commit
+
+git revert HEAD   --> it revert changes of HEAD commit and make a new commit.
+
+git commit --amend -m "New message for the last commit"  --> it changes the last commit value/adjust it and changes the commit message.
+
+git commit --amend --author="Gowthaman <gowthamgithubber@gmail.com>"  --> for changing the author of last commit 
+
+------------------------ cherry-picking commits -------------------------
+
+it picks specific commit from a branch and applies to a new branch.
+
+git cherry-pick <SHA hash> 
+
+git cherry-pick --no-commit <SHA hash> -- it simply cherry picks changes to specific branch without commit
+
+-------------------------Reflog----------------------------
+It shows all historical git operations
+
+git reflog   -- it shows all git operations
+
+git reflog show feature-2  -- it shows all git operations of specific branch
+
+------------------stashing-----------------------
+git stash
+
+git stash pop  --> restore changes back.
+
+serviceNote.customMiscellaneousNotes.Narration
+
+git config credential.helper ""
+
+
+--------------------------------------------------------------- Git Hooks --------------------------------------------
+
+$ git status
+On branch feature-2
+Your branch is ahead of 'origin/feature-2' by 1 commit.
+  (use "git push" to publish your local commits)
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+        "\330\247\331\204\331\201\331\210\330\252\331\210\330\264\331\210\330\250 \331\210"
+
+nothing added to commit but untracked files present (use "git add" to track)
+
+gvaikundanathan@streamline361 MINGW64 /e/Git-Practice (feature-2)
+$ git add .
+
+gvaikundanathan@streamline361 MINGW64 /e/Git-Practice (feature-2)
+$ git commit "Arabic text was added"
+error: pathspec 'Arabic text was added' did not match any file(s) known to git
+
+gvaikundanathan@streamline361 MINGW64 /e/Git-Practice (feature-2)
+$ git commit -m "Arabic text was added"
+Error: Attempt to add a non-ASCII file name.
+
+This can cause problems if you want to work with people on other platforms.
+
+To be portable it is advisable to rename the file.
+
+If you know what you are doing you can disable this check using:
+
+  git config hooks.allownonascii true
+
+gvaikundanathan@streamline361 MINGW64 /e/Git-Practice (feature-2)
+$
+
+
+
+
+
+
+
+
+
+
+
+
